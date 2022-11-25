@@ -31,6 +31,7 @@ VR simulations can give nursing students the opportunity to practice skills in a
 3. Neonatal Resuscitation (reference: https://www.youtube.com/watch?v=0WhEtCygUJM )
 
 https://youtu.be/rjOocXlapd8
+<video src="https://youtu.be/rjOocXlapd8"/>
 
 [<img src="Capture.png" width="50%">](https://youtu.be/rjOocXlapd8)
 
