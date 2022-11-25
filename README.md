@@ -26,7 +26,7 @@ VR simulations can give nursing students the opportunity to practice skills in a
 
 # Demo
 3 Experiments :
-1- IV Infusion ( reference : https://www.youtube.com/watch?v=_S8JfTbZbdk)
-2- ECG procedure (reference: https://geekymedics.com/record-ecg/)
-3- Neonatal Resuscitation (reference: https://www.youtube.com/watch?v=0WhEtCygUJM )
+1. IV Infusion ( reference : https://www.youtube.com/watch?v=_S8JfTbZbdk)
+2. ECG procedure (reference: https://geekymedics.com/record-ecg/)
+3. Neonatal Resuscitation (reference: https://www.youtube.com/watch?v=0WhEtCygUJM )
  
