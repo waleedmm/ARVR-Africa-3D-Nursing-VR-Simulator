@@ -2,11 +2,11 @@
 this is an education project for nursing simulation. It's submitted to the contest of ARVR Africae 2022 (online hackthon).
 
 # Team
--Dina AL-Shorbagy
-Amira El sayed
-Alaa’ Allah Hilal
-Dr-Mona Gabr
-Waleed Mohamed
+- Dina AL-Shorbagy
+- Amira El sayed
+- Alaa’ Allah Hilal
+- Dr-Mona Gabr
+- Waleed Mohamed
 
 
 # introdction
@@ -16,17 +16,17 @@ VR simulations can give nursing students the opportunity to practice skills in a
  
 # solution
 3D Nursing Simulator :
--Mobile VR
--Unity Technology
--Gaze-Based Interaction
--Hand Mocap using UltraLeap Camera for some animations
--Blender Modeling + online assets
--Economic Cost 
--Target Users: Students and Nursing Teachers
+- Mobile VR
+- Unity Technology
+- Gaze-Based Interaction
+- Hand Mocap using UltraLeap Camera for some animations
+- Blender Modeling + online assets
+- Economic Cost 
+- Target Users: Students and Nursing Teachers
 
 # Demo
 3 Experiments :
-1-IV Infusion ( reference : https://www.youtube.com/watch?v=_S8JfTbZbdk)
-2-ECG procedure (reference: https://geekymedics.com/record-ecg/)
-3-Neonatal Resuscitation (reference: https://www.youtube.com/watch?v=0WhEtCygUJM )
+1- IV Infusion ( reference : https://www.youtube.com/watch?v=_S8JfTbZbdk)
+2- ECG procedure (reference: https://geekymedics.com/record-ecg/)
+3- Neonatal Resuscitation (reference: https://www.youtube.com/watch?v=0WhEtCygUJM )
  
