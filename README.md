@@ -33,6 +33,6 @@ VR simulations can give nursing students the opportunity to practice skills in a
 https://youtu.be/rjOocXlapd8
 <video src="https://youtu.be/rjOocXlapd8"/>
 
-[<img src="Capture.png" width="50%">](https://youtu.be/rjOocXlapd8)
+[![My Image](Capture.png)](https://youtu.be/rjOocXlapd8)
 
  
