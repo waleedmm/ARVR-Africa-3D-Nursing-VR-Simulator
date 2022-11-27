@@ -24,6 +24,8 @@ EditorBuildSettings:
     path: Assets/Scenes/VR_Experiment-03.unity
     guid: 794ab6316087b094abbcc9b255c77158
   m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 2bc9800ac6295a442b4eff8cf7d52c1d, type: 2}
+    Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: 421aa63e5b50dda49b77d34de04c19be, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: f9bfcf052690424458b008bbd31508ff, type: 2}
-    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 863199a85dc43be44b6a24f0127a5fef, type: 2}
-    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: b0ccdadbe2e3c5449936da060f138998, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: bdad55b78905bbd47a36e1a3a876db90, type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: 81f451ef6b198904faaddf224819d6cc, type: 2}

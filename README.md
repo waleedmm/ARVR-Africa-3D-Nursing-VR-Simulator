@@ -9,7 +9,7 @@ this is an education project for nursing simulation. It's submitted to the conte
 - Waleed Mohamed
 
 
-# introdction
+# introduction
 Importance virtual reality on nursing education: VR has gained increasing attention in the field of nursing education and been used to teach many nursing concepts including communication, decision-making, critical thinking, inclusivity, health appraisal, and disaster triage for example, COVID19. 
 VR simulations can give nursing students the opportunity to practice skills in a safe environment without risk to patients and facilitate learning process.
  Comparing with the traditional health education courses, VR technology provides opportunities for nursing students to investigate the 3D human body structure with vivid learning experience rather than traditional methods.
