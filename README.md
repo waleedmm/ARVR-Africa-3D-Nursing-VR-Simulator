@@ -51,8 +51,10 @@ the project can be tested in one of the following 2 options:
     4. the application is gaze based (ie. it uses eye direction to select action), to select any action keep looking at it for about 2 seconds till the yellow circular progress completes
 # Mobile Controls
 The mobile application is gaze based, so it depends on head rotation and eye looking duration.
-    1. camera rotation: is done by rotating head
-    2. Movement (Walking): it’s teleportation based. So, you can move by looking 2 seconds into one of the green boxes on the ground. When the yellow circle completes the teleportation is executed and position changes.
+    
+	1. camera rotation: is done by rotating head
+    
+	2. Movement (Walking): it’s teleportation based. So, you can move by looking 2 seconds into one of the green boxes on the ground. When the yellow circle completes the teleportation is executed and position changes.
 	
 	[![moving](/move.PNG)]
 	3. Using items and UI buttons: if item is usable, then by looking at it a blue panel appears, and if looking time is 2 seconds, then a yellow circle is completed and the item is used
