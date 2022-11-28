@@ -61,4 +61,37 @@ The mobile application is gaze based, so it depends on head rotation and eye loo
 ![using](/use-1.PNG)
 ![using](/ui.PNG)
 
+# Target Scenarios for the Nursing Experiments:
+here are the required steps to follow for each experiment:
+## IV Infusion steps( reference : https://www.youtube.com/watch?v=_S8JfTbZbdk)
+    1. please start by washing your hands
+    2. Then, Wear the medical glove
+    3. Now, Check Patient ID
+    4. Next, Check Dose and any possible Allergy in the doctor's report
+    5. Next, Prepare Dose by using syringe
+    6. Good Work, Now Connect I.V. Bag
+    7. Very good, then Hang I.V. Bag to Dropper
+    8. And Now, Connect IV to Patient's Arm
+    9. well done, You Have Completed the procedure
+## ECG procedure steps(reference: https://geekymedics.com/record-ecg/)
+    1. Identify the fourth intercostal space (starting at the sternal angle)
+    2.  Attach V1: 4th intercostal space at the right sternal edge.
+    3.  Attach V2: 4th intercostal space at the left sternal edge.
+    4.  Attach V4: 5th intercostal space in the midclavicular line.
+    5. Attach V3: midway between the V2 and V4 electrodes.
+    6. Attach V5: left anterior axillary line at the same horizontal level as V4.
+    7. Attach V6: left mid-axillary line at the same horizontal level as V4 and V5.
+    8. Attach Red (RA): on the ulnar styloid process of the right arm.
+    9. Attach Yellow (LA): on the ulnar styloid process of the left arm.
+    10. Attach Green (LL): on the medial or lateral malleolus of the left leg.
+    11. Attach Black (RL): on the medial or lateral malleolus of the right leg.
+## Neonatal Resuscitation steps  (reference: https://www.youtube.com/watch?v=0WhEtCygUJM )
+    1. first lets dry the baby's body then wrap it with a dry towel
+    2. pickup the stethoscope
+    3. next, Locate the heart position .... then Use the stethoscope to check heart rate , also check the color... tone ... and breathing of the baby 
+    4. BE CAREFUL! There is a breathing problem, it needs 5 inflation breaths procedure... to start, choose the suitable size mouth mask.
+    5. The mouth mask is attached to bag valve unit. pickup the bag valve
+    6. to start the 5 inflation breaths procedure, locate baby's mouth position and put the bag valve mask unit
+    7. Good work, however the baby still needs Cardiac Compression... Locate Baby's Chest and press 3 times
+
  
