@@ -54,6 +54,7 @@ the project can be tested in one of the following 2 options:
 	1. camera rotation: is done by rotating head
 	2. Movement (Walking): it’s teleportation based. So, you can move by looking 2 seconds into one of the green boxes on the ground. When the yellow circle completes the teleportation is executed and position changes.
 	3. Using items and UI buttons: if item is usable, then by looking at it a blue panel appears, and if looking time is 2 seconds, then a yellow circle is completed and the item is used
+	
 	[![moving](/move.PNG)]
 	[![using](/use-1.PNG)]
 	[![using](/ui.PNG)]
