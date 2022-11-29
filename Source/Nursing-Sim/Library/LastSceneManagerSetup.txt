@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/VR_MenuLobby.unity
+- path: Assets/Scenes/Desktop_Experiment-03.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
