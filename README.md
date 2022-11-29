@@ -94,4 +94,9 @@ here are the required steps to follow for each experiment:
     6. to start the 5 inflation breaths procedure, locate baby's mouth position and put the bag valve mask unit
     7. Good work, however the baby still needs Cardiac Compression... Locate Baby's Chest and press 3 times
 
- 
+# Demo and Walk through Videos
+To see walk through and demo videos of the  current experiments, please check the folder “Videos” which contains:
+1. v-58 demo-b.mp4 & v-61 demo.mp4:  samples for experiment 1
+2. v-59-HandWashing-Modified.mp4: the recorded animation using UltraLeap motion capture
+3. v-64-demo.mp4: sample for 2nd experiment
+4. v-66-demo.mp4: Sample for 3rd experiment
